@@ -27,3 +27,6 @@ There is already quite a couple of Wiki relying on Git : https://paulhammant.com
  - A wiki is not just files
  - History can be rewritten
  - Many non-official copies may exist and could dilute the value of the main project
+
+## Git or not ?
+Git is a good basis, but we have to think of all advantages and consequences. The principles are good, but the solution is maybe something similar, but more specialized. Therefore a new tool could be made from scratch, starting from zero like described in : https://wyag.thb.lt/
